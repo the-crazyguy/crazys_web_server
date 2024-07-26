@@ -1,3 +1,0 @@
-/home/the_crazyguy/programming/crazys_web_server/backend/hello_world_project/hello_world/build/CMakeFiles/hello_world.dir
-/home/the_crazyguy/programming/crazys_web_server/backend/hello_world_project/hello_world/build/CMakeFiles/edit_cache.dir
-/home/the_crazyguy/programming/crazys_web_server/backend/hello_world_project/hello_world/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/the_crazyguy/programming/crazys_web_server/backend/hello_world_project/hello_world/build",
-  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/hello_world.dir/main.cpp.o -c /home/the_crazyguy/programming/crazys_web_server/backend/hello_world_project/hello_world/main.cpp",
-  "file": "/home/the_crazyguy/programming/crazys_web_server/backend/hello_world_project/hello_world/main.cpp"
-}
-]
